@@ -5,9 +5,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Danilo Montes - https://github.com/danilo-montes
-Sanjaya Bhatta - https://github.com/itSanjaya
-Evan Huang - https://github.com/EV9H
+Danilo Montes - https://github.com/danilo-montes \
+Sanjaya Bhatta - https://github.com/itSanjaya \
+Evan Huang - https://github.com/EV9H \
 Bhavig Pointi - https://github.com/bpointi
 
 ## Stakeholders
