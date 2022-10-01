@@ -38,4 +38,5 @@ Lin Shue (NYU Student)
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+!(./images/use_case_1.png)
+!(./images/use_case_2.png)
