@@ -38,5 +38,6 @@ Lin Shue (NYU Student)
 
 ## Activity Diagrams
 
-!(./images/use_case_1.png)
-!(./images/use_case_2.png)
+![use case 1](./images/use_case_1.png)
+
+![use case 2](./images/use_case_2.png)
