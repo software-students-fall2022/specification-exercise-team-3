@@ -22,7 +22,7 @@ Problems/Frustration:
 - x
 - x
 
-Needs/Goals;
+Needs/Goals:
 - x
 - x
 - x
