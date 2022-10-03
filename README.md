@@ -39,7 +39,6 @@ Needs/Goals:
 - Offer a students a way to easily contact other students through the app for a joint study session—essentially a social component
 - The option to filter locations by more than just space type and hours, such as noise level
 - Make the app feel easy to navigate and communicate its purpose clearly so that more students would feel inclined to use it
-- Plans were set to introduce a fun tab (displayed as “coming soon” in the app) to introduce students to different events around campus
 
 
 ## Product Vision Statement
