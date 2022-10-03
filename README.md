@@ -20,28 +20,29 @@ Problems/Frustration:
 
 - Needing to search for up to 20 minutes just to find a place to sit/study
 - Having to move to a different location if all spots in a particular area are taken
-- Found interviewees to have specific locations that are conducive to their productivity, and not finding any of them available is a major frustration as they would have to settle for an unideal location
+- Has specific locations that are conducive to their productivity, and not finding any of them available is a major frustration as they would have to settle for an unideal location
 - Not having/knowing about areas to study conversationally
 
 Needs/Goals:
 - Finding a spot to study
 - Determining how packed an area for studying is
-- Finding a “spot” to habitually go to 
-- Effectively using all available time to study/work, (no wasting unnecessary time)
+- Finding a new spot to habitually go to 
+- Effectively using all available time to study/work (no wasting unnecessary time)
 
-### ___ (NYU IT Desk Member):
-
+### Esther Wu (NYU IT Desk Member):
 Problems/Frustrations:
-- x
-- x
-- x
-- x
+- Some complaints about premature shutdown of NYU Scan & Reserve
+- Not nearly enough usage as what was expected, and hardly know anyone that used it personally
+- App maintenance could have been better; certain bugs like automatics sign-outs made the app difficult to use
+- Lack of use among student body meant that students sometimes encountered someone already sitting at their reserved space; a reservation system may not be the ideal solution for students looking to find study spots with available seating
 
 Needs/Goals:
-- Finding a spot to study
-- x
-- x
-- x
+- Reinstate ability view available seating in library and other locations, save for the Eat reservations (COVID-19 area capacity restrictions have been lifted)
+- Offer a students a way to easily contact other students through the app for a joint study session—essentially a social component
+- The option to filter locations by more than just space type and hours, such as noise level
+- Make the app feel easy to navigate and communicate its purpose clearly so that more students would feel inclined to use it
+- Plans were set to introduce a fun tab (displayed as “coming soon” in the app) to introduce students to different events around campus
+
 
 ## Product Vision Statement
 
